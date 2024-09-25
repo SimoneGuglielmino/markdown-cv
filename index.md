@@ -9,6 +9,7 @@ Mixed-Signal Designer, Researcher
   <a href="mailto:simoneguglielmino.main@gmail.com">Mail</a>
 | <a href="https://www.linkedin.com/in/simone-guglielmino">Linkedin</a>
 | <a href="https://github.com/SimoneGuglielmino">GitHub</a>
+| <a href="https://orcid.org/0009-0007-4410-4521">OrcID</a>
 </div>
 
 ## Currently
