@@ -46,7 +46,9 @@ __B.Sc. Electronics Engineering__, Polytechnic of Milan
   - __Relevant courswork__: Analog Electronics, Digital Electronics, Electronic Devices
 
 __Other Courses__
+
   '2020' FPGA Academy, Polytechnic of Milan
+  
   '2022' Signal & Power Integrity of High-Speed PCBs, Polytechnic of Milan
 
 ## Awards
