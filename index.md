@@ -20,7 +20,9 @@ __Ph.D. Student__, DTU Electro, Denmark Technical University
   - Teacher for 34657 System-Level IC Design
   - Supervisor of B.Sc. and M.Sc. students
 
-Ph.D. Student
+`Dec 2022 - now`
+__External Consultant__, Skyward Experimental Rocketry
+  - External consulting during critical design phases
 
 ### Specialized in
 
@@ -28,20 +30,10 @@ Ph.D. Student
 
 ## Experience
 
-`Apr 2023 - now`
-__Ph.D. Student__, DTU Electro, Denmark Technical University
-  - Teaching Assistant for 34600 Electric Circuits 1
-  - Teacher for 34657 System-Level IC Design
-  - Supervisor of B.Sc. and M.Sc. students
-
 `Jan 2023 - Mar 2023`
 __Semiconductor Design Engineer__, Teradyne Inc.
   - Design of Device Interface Board for semiconductor testing
 
-`Dec 2022 - now`
-__External Consultant__, Skyward Experimental Rocketry
-  - External consulting during critical design phases
-  - 
 `Oct 2019 - Dec 2022`
 __Electronic Engineer__, Skyward Experimental Rocketry
   - Design of onboard and ground-side systems, from the formulation of requirements to final testing and system integration
