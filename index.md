@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Simone Gulielmino's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Simone Gulielmino
+Mixed-Signal Designer, Researcher
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,24 +13,19 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Ph.D. Student
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
 ### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
+`April 2023 - now`
 __The King's School, Grantham.__
 
-`June 1661 - now`
+`September 2020 - December 2022`
 __Trinity College, Cambridge__
 
 - Sizar
