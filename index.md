@@ -22,34 +22,45 @@ Ph.D. Student
 
 ### Research interests
 
+## Experience
+
+`Apr 2023 - now`
+__Ph.D. Student__, DTU Electro, Denmark Technical University
+  - Teaching Assistant for 34600 Electric Circuits 1
+  - Teacher for 34657 System-Level IC Design
+  - Supervisor of B.Sc. and M.Sc. students
+
+`Jan 2023 - Mar 2023`
+__Semiconductor Design Engineer__, Terdayne Inc.
+  - Design of Device Interface Board for semiconductor testing
 
 ## Education
 
-`April 2023 - now`
+`Apr 2023 - now`
 __Ph.D. Electronics Engineering__, Denmark Technical University
   - __Project__: Design of an Integrated Circuit for Electrochemical Impedance Spectroscopy of Li-Ion batteries.
   - __Relevant coursework__: Layout of CMOS ICs, System Level IC Design
 
-`August 2021 - December 2021`
+`Aug 2021 - Dec 2021`
 __International Mobility__, Denmark Technical University
   - __Relevant courswork__: Digital Instrumentation, FPGA Design for Telecommunication, Switch-Mode Power Supplies.
   
-`September 2020 - December 2022`
+`Sep 2020 - Dec 2022`
 __M.Sc. Electronics Engineering__, Polytechnic of Milan
   - __Grade__: 110 with honors / 110
   - __Thesis__: [FPGA-assisted verification of digitally-assisted analog-to-digital converter calibration algorithms](https://hdl.handle.net/10589/196618)
   - __Relevant courswork__: Analog IC Design, Digital IC Design, Electronic Systems, Design, Digital System Design, CMOS fabrication
 
-`September 2017 - September 2020`
+`Sep 2017 - Sep 2020`
 __B.Sc. Electronics Engineering__, Polytechnic of Milan
   - Grade: 107 / 110
   - __Relevant courswork__: Analog Electronics, Digital Electronics, Electronic Devices
 
-__Other Courses__
+## Other Courses
 
-  `2020` FPGA Academy, Polytechnic of Milan
-  
-  `2022` Signal & Power Integrity of High-Speed PCBs, Polytechnic of Milan
+  `2022` __Signal & Power Integrity of High-Speed PCBs__, Polytechnic of Milan
+
+  `2020` __FPGA Academy__, Polytechnic of Milan
 
 ## Awards
 
