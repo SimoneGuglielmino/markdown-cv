@@ -14,7 +14,11 @@ Mixed-Signal Designer, Researcher
 
 ## Currently
 
-__DTU Electro__, Denmark Technical University 
+`Apr 2023 - now`
+__Ph.D. Student__, DTU Electro, Denmark Technical University
+  - Teaching Assistant for 34600 Electric Circuits 1
+  - Teacher for 34657 System-Level IC Design
+  - Supervisor of B.Sc. and M.Sc. students
 
 Ph.D. Student
 
