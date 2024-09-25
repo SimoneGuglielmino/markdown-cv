@@ -31,30 +31,40 @@ __Ph.D. Student__, DTU Electro, Denmark Technical University
   - Supervisor of B.Sc. and M.Sc. students
 
 `Jan 2023 - Mar 2023`
-__Semiconductor Design Engineer__, Terdayne Inc.
+__Semiconductor Design Engineer__, Teradyne Inc.
   - Design of Device Interface Board for semiconductor testing
+
+`Dec 2022 - now`
+__External Consultant__, Skyward Experimental Rocketry
+  - External consulting during critical design phases
+  - 
+`Oct 2019 - Dec 2022`
+__Electronic Engineer__, Skyward Experimental Rocketry
+  - Design of onboard and ground-side systems, from the formulation of requirements to final testing and system integration
+  - Training of new members on the use of Altium Designer and general HW and PCB design practices
+  - Design review of multiple PCB at schematic and layout level
 
 ## Education
 
 `Apr 2023 - now`
-__Ph.D. Electronics Engineering__, Denmark Technical University
-  - __Project__: Design of an Integrated Circuit for Electrochemical Impedance Spectroscopy of Li-Ion batteries.
-  - __Relevant coursework__: Layout of CMOS ICs, System Level IC Design
+__Ph.D. Electronic Engineering__, Denmark Technical University
+  - Project: Design of an Integrated Circuit for Electrochemical Impedance Spectroscopy of Li-Ion batteries.
+  - Relevant coursework: Layout of CMOS ICs, System Level IC Design
 
 `Aug 2021 - Dec 2021`
 __International Mobility__, Denmark Technical University
-  - __Relevant courswork__: Digital Instrumentation, FPGA Design for Telecommunication, Switch-Mode Power Supplies.
+  - Relevant coursework: Digital Instrumentation, FPGA Design for Telecommunication, Switch-Mode Power Supplies.
   
 `Sep 2020 - Dec 2022`
 __M.Sc. Electronics Engineering__, Polytechnic of Milan
-  - __Grade__: 110 with honors / 110
-  - __Thesis__: [FPGA-assisted verification of digitally-assisted analog-to-digital converter calibration algorithms](https://hdl.handle.net/10589/196618)
-  - __Relevant courswork__: Analog IC Design, Digital IC Design, Electronic Systems, Design, Digital System Design, CMOS fabrication
+  - Grade: 110 with honors / 110
+  - Thesis: [FPGA-assisted verification of digitally-assisted analog-to-digital converter calibration algorithms](https://hdl.handle.net/10589/196618)
+  - Relevant coursework: Analog IC Design, Digital IC Design, Electronic Systems, Design, Digital System Design, CMOS fabrication
 
 `Sep 2017 - Sep 2020`
 __B.Sc. Electronics Engineering__, Polytechnic of Milan
   - Grade: 107 / 110
-  - __Relevant courswork__: Analog Electronics, Digital Electronics, Electronic Devices
+  - Relevant coursework: Analog Electronics, Digital Electronics, Electronic Devices
 
 ## Other Courses
 
