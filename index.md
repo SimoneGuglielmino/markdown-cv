@@ -66,13 +66,63 @@ __B.Sc. Electronics Engineering__, Polytechnic of Milan
 
 ## Projects
 
-`Apr 2023 - Mar 2026` __BatBal EIS IC__, Mixed-Signal IC for Electrochemical Impedance Spectroscopy measurement of Li-Ion batteries. Features an analog front-end, ADCs and DACs, and extensive Digital Signal Processing.
+`Apr 2023 - Mar 2026` __BatBal EIS IC:__ Mixed-Signal IC for Electrochemical Impedance Spectroscopy of Li-Ion batteries. Features an analog front-end, ADCs and DACs, and extensive Digital Signal Processing.
 
-`2023 - 2022` __Gemini__, Sounding rocket developed to participate EuRoC 23, features a brandnew architecture for the avionic systems with a focus on improved modularity and reusability.
+`Nov 2022 - Oct 2023` __Gemini:__ Sounding rocket developed to participate EuRoC 23, features a brandnew architecture for the avionic systems with a focus on improved modularity and reusability.
 
-`2022 - 2021` __Pyxis__ Sounding rocket developed to participate EuRoC 22, features an inhouse developed, dual-band telemetry system.
+`Nov 2021 - Oct 2021` __Pyxis:__ Sounding rocket developed to participate EuRoC 22, features an inhouse developed, dual-band telemetry system.
 
-`2021 - 2020` Sounding rocket developed to participate EuRoC 21.
+`Nov 2020 - Oct 2021` __Lynx:__ Sounding rocket developed to participate EuRoC 21.
+
+## Skills
+
+### General skills
+
+Formulation of requirements, system & architecture design, components selecetion, datasheet analysis, high-level modeling.
+
+### IC Design
+
+Analog design, Digital design, Mixed-Signal design, Cadence Virtuoso Suite,
+RTL-to-GDSII flow, Cadence Genus & Innovus, Verilog-A, Schematic capture,
+simulations, analog IC layout, gm/ID methodology.
+
+### PCB Design
+
+Altium Designer, Cadence Allegro, KiCAD, schematic capture, layout, High-Frequency design, High-Speed design, noise-sensitive layout, Power Delivery Network design, multi-layer PCB design and stack-up optimization, Design for Manufacturability, creating and maintaining footprints and schematic symbols.
+
+### Simulations
+
+ANSYS Electronics and ANSYS SiWave for PCB-level simulation. 
+
+### Microcontrollers
+
+STM32, PIC16, bare-metal embedded C 
+
+### FPGA
+
+Xilinx Vivado, Intel Quartus, Xilinx series 7 FPGA & Zynq-7000 SoC, datapath design, CDC
+
+### Programming
+
+C, Python, MATLAB, tcl, Verilog, VHDL, bash 
+
+## Misc
+
+Microsoft Office suite, LATEX, Windows, Linux/Unix 
+
+## Languages
+
+Italian – Mother Tongue
+English – Full professional proficiency
+Certification: TOEIC - 990/990 (C1)
+
+## Awards
+Winner of EuRoC 2021 flight award, as member of Skyward Experimental Rocketry
+Winner of EuRoC 2022 technical award, EuRoC award, and 1st and 2nd places for ANACOM RF awards, as member of Skyward Experimental Rocketry
+
+## Interests
+
+Technology, Aerospace, Hardware Design, Integrated Circuits, Integrated Photonics, High-Speed Interfaces, Rocketry, Space exploration.
 
 <!-- ### Footer
 
