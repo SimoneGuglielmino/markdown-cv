@@ -26,27 +26,27 @@ Ph.D. Student
 
 `April 2023 - now`
 __Ph.D. Electronics Engineering__, Denmark Technical University
-- __Project__: Design of an Integrated Circuit for Electrochemical Impedance Spectroscopy of Li-Ion batteries.
-- __Relevant coursework__: Layout of CMOS ICs, System Level IC Design
+  - __Project__: Design of an Integrated Circuit for Electrochemical Impedance Spectroscopy of Li-Ion batteries.
+  - __Relevant coursework__: Layout of CMOS ICs, System Level IC Design
 
 `August 2021 - December 2021`
 __International Mobility__, Denmark Technical University
-- __Relevant courswork__: Digital Instrumentation, FPGA Design for Telecommunication, Switch-Mode Power Supplies.
-- 
+  - __Relevant courswork__: Digital Instrumentation, FPGA Design for Telecommunication, Switch-Mode Power Supplies.
+  
 `September 2020 - December 2022`
 __M.Sc. Electronics Engineering__, Polytechnic of Milan
-- __Grade__: 110 with honors / 110
-- __Thesis__: [FPGA-assisted verification of digitally-assisted analog-to-digital converter calibration algorithms](https://hdl.handle.net/10589/196618)
-- __Relevant courswork__: Analog IC Design, Digital IC Design, Electronic Systems, Design, Digital System Design, CMOS fabrication
+  - __Grade__: 110 with honors / 110
+  - __Thesis__: [FPGA-assisted verification of digitally-assisted analog-to-digital converter calibration algorithms](https://hdl.handle.net/10589/196618)
+  - __Relevant courswork__: Analog IC Design, Digital IC Design, Electronic Systems, Design, Digital System Design, CMOS fabrication
 
 `September 2017 - September 2020`
 __B.Sc. Electronics Engineering__, Polytechnic of Milan
-- Grade: 107 / 110
-- __Relevant courswork__: Analog Electronics, Digital Electronics, Electronic Devices
+  - Grade: 107 / 110
+  - __Relevant courswork__: Analog Electronics, Digital Electronics, Electronic Devices
 
 __Other Courses__
-- FPGA Academy, Polytechnic of Milan, 2020
-- Signal & Power Integrity of High-Speed PCBs, Polytechnic of Milan, 2022
+  - FPGA Academy, Polytechnic of Milan, 2020
+  - Signal & Power Integrity of High-Speed PCBs, Polytechnic of Milan, 2022
 
 ## Awards
 
