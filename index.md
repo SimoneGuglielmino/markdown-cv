@@ -106,19 +106,19 @@ Xilinx Vivado, Intel Quartus, Xilinx series 7 FPGA & Zynq-7000 SoC, datapath des
 
 C, Python, MATLAB, tcl, Verilog, VHDL, bash 
 
-## Misc
+### Misc
 
 Microsoft Office suite, LATEX, Windows, Linux/Unix 
 
 ## Languages
 
-Italian – Mother Tongue
-English – Full professional proficiency
+- __Italian__ – Mother Tongue
+- __English__ – Full professional proficiency
 Certification: TOEIC - 990/990 (C1)
 
 ## Awards
-Winner of EuRoC 2021 flight award, as member of Skyward Experimental Rocketry
-Winner of EuRoC 2022 technical award, EuRoC award, and 1st and 2nd places for ANACOM RF awards, as member of Skyward Experimental Rocketry
+- Winner of EuRoC 2021 flight award, as member of Skyward Experimental Rocketry
+- Winner of EuRoC 2022 technical award, EuRoC award, and 1st and 2nd places for ANACOM RF awards, as member of Skyward Experimental Rocketry
 
 ## Interests
 
