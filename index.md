@@ -63,7 +63,17 @@ __B.Sc. Electronics Engineering__, Polytechnic of Milan
   `2022` __Signal & Power Integrity of High-Speed PCBs__, Polytechnic of Milan
 
   `2020` __FPGA Academy__, Polytechnic of Milan
-  
+
+## Projects
+
+`Apr 2023 - Mar 2026` __BatBal EIS IC__, Mixed-Signal IC for Electrochemical Impedance Spectroscopy measurement of Li-Ion batteries. Features an analog front-end, ADCs and DACs, and extensive Digital Signal Processing.
+
+`2023 - 2022` __Gemini__, Sounding rocket developed to participate EuRoC 23, features a brandnew architecture for the avionic systems with a focus on improved modularity and reusability.
+
+`2022 - 2021` __Pyxis__ Sounding rocket developed to participate EuRoC 22, features an inhouse developed, dual-band telemetry system.
+
+`2021 - 2020` Sounding rocket developed to participate EuRoC 21.
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
