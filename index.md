@@ -6,14 +6,14 @@ title: Simone Guglielmino's CV
 Mixed-Signal Designer, Researcher
 
 <div id="webaddress">
-  <a href="mailto:simoneguglielmino.main@gmail.com">mail</a>
+  <a href="mailto:simoneguglielmino.main@gmail.com">Mail</a>
 | <a href="https://www.linkedin.com/in/simone-guglielmino">Linkedin</a>
 | <a href="https://github.com/SimoneGuglielmino">GitHub</a>
 </div>
 
-
 ## Currently
 
+__DTU Electro__, Denmark Technical University 
 Ph.D. Student
 
 ### Specialized in
