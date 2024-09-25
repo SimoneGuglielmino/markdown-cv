@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Simone Gulielmino's CV
+title: Simone Guglielmino's CV
 ---
-# Simone Gulielmino
+# Simone Guglielmino
 Mixed-Signal Designer, Researcher
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:simoneguglielmino.main@gmail.com">mail</a>
+| <a href="https://www.linkedin.com/in/simone-guglielmino">Linkedin</a>
+| <a href="https://github.com/SimoneGuglielmino">GitHub</a>
 </div>
 
 
