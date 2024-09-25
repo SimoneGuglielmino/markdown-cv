@@ -24,11 +24,7 @@ __Ph.D. Student__, DTU Electro, Denmark Technical University
 __External Consultant__, Skyward Experimental Rocketry
   - External consulting during critical design phases
 
-### Specialized in
-
-### Research interests
-
-## Experience
+## Past Experience
 
 `Jan 2023 - Mar 2023`
 __Semiconductor Design Engineer__, Teradyne Inc.
@@ -38,7 +34,7 @@ __Semiconductor Design Engineer__, Teradyne Inc.
 __Electronic Engineer__, Skyward Experimental Rocketry
   - Design of onboard and ground-side systems, from the formulation of requirements to final testing and system integration
   - Training of new members on the use of Altium Designer and general HW and PCB design practices
-  - Design review of multiple PCB at schematic and layout level
+  - Design review of PCBs at schematic and layout level
 
 ## Education
 
