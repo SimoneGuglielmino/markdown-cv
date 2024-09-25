@@ -14,6 +14,7 @@ Mixed-Signal Designer, Researcher
 ## Currently
 
 __DTU Electro__, Denmark Technical University 
+
 Ph.D. Student
 
 ### Specialized in
@@ -24,15 +25,19 @@ Ph.D. Student
 ## Education
 
 `April 2023 - now`
-__The King's School, Grantham.__
+__Ph.D. Electronics Engineering__, Denmark Technical University
+
+`August 2021 - December 2021`
+__International Mobility__, Denmark Technical University
 
 `September 2020 - December 2022`
-__Trinity College, Cambridge__
+__M.Sc. Electronics Engineering__, Polytechnic of Milan
+- Grade: 110 with honors / 110
+- Thesis: FPGA-assisted verification of digitally-assisted analog-to-digital converter calibration algorithms(https://hdl.handle.net/10589/196618)
+- Relevant courswork: Analog IC Design, Digital IC Design, Electronic Systems, Design, Digital System Design, CMOS fabrication
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
+`September 2017 - September 2020`
+__B.Sc. Electronics Engineering__, Polytechnic of Milan
 
 - Fellow
 
